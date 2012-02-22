@@ -60,7 +60,7 @@
         android:gravity="bottom">
 
         <view class="com.android.mms.ui.MessageListView"
-            style="?android:attr/listViewWhiteStyle"
+            style="?android:attr/listViewStyle"
             android:id="@+id/history"
             android:layout_width="match_parent"
             android:layout_height="0dip"
@@ -71,7 +71,7 @@
             android:visibility="gone"
             android:fadingEdge="none"
             android:layout_marginBottom="1dip"
-            android:cacheColorHint="@android:color/white"
+            android:cacheColorHint="@android:color/black"
             android:scrollbarAlwaysDrawVerticalTrack="false"
             android:scrollbarStyle="insideOverlay"
             android:paddingBottom="@dimen/input_text_height_adjusted"
