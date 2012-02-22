@@ -24,7 +24,7 @@
         <item name="android:textColor">?android:textColorSecondaryInverse</item>
     </style>
 
-    <style name="MmsHoloTheme" parent="@android:style/Theme.Holo.Dark.DarkActionBar">
+    <style name="MmsHoloTheme" parent="@android:style/Theme.Holo">
     </style>
 
 </resources>
